@@ -13,7 +13,7 @@ Asymmetric Research is a new validator provider that has expressed interest in j
 
 Pythnet is Pyth's appchain. The stake on Pythnet is fully controlled by the Pythian Council, who controls all of the Stake accounts and chooses who to delegate them to.
 
-Asymmetric Research is a boutique security venture focused on deep partnerships with L1/L2 blockchains and DeFi protocols in an effort to keep them safe. Their website : https://www.asymmetric.re/
+Asymmetric Research is a boutique security venture focused on deep partnerships with L1/L2 blockchains and DeFi protocols in an effort to keep them safe. They have audited many of Pyth's smart contracts. Their website : https://www.asymmetric.re/
 
 
 ## Implementation Plan
